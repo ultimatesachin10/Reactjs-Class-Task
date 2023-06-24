@@ -1,0 +1,139 @@
+.container {
+    margin-top: 5rem;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  .col-md-3 {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+  }
+  
+  .image-container {
+    position: relative;
+  }
+  
+  .discount {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    background-color: #ff6b6b;
+    color: #fff;
+    padding: 0.25rem 0.5rem;
+    border-radius: 3px;
+  }
+  
+  .wishlist {
+    position: absolute;
+    top: 0.5rem;
+    left: 0.5rem;
+    color: #777;
+  }
+  
+  .thumbnail-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .product-detail-container {
+    margin-top: 1rem;
+  }
+  
+  .dress-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .new-price {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  
+  .old-price {
+    font-size: 0.9rem;
+    color: #777;
+  }
+  
+  .color-select {
+    margin-top: 1rem;
+  }
+  
+  .color-select .btn {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 0.5rem;
+    padding: 0;
+  }
+  
+  .item-size {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 0.5rem;
+  }
+  
+  .rating-star {
+    color: #f8ce0b;
+  }
+  
+  .rating-number {
+    margin-left: 0.5rem;
+  }
+  
+  .buy {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    cursor: pointer;
+  }
+  
+  .card.voutchers {
+    border: none;
+    background-color: #f8f8f8;
+    padding: 1rem;
+  }
+  
+  .voutcher-divider {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .voutcher-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .voutcher-code {
+    font-size: 1.1rem;
+    color: #777;
+  }
+  
+  .discount-percent {
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+  
+  .off {
+    font-size: 0.9rem;
+    color: #777;
+  }
+  
