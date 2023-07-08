@@ -15,14 +15,14 @@ const ProductCard = () => {
                   <span className="wishlist"><i style={{ color: 'red' }} className="fa fa-heart"></i></span>
                 </div>
               </div>
-              <img src="https://i.imgur.com/8JIWpnw.jpg" className="img-fluid rounded thumbnail-image" alt="Product" />
+              <img src="https://i.ibb.co/ZMYtFcR/20s-Costume-Arthur-with-Flat-Cap.jpg" className="img-fluid rounded thumbnail-image" alt="Product" />
             </div>
             <div className="product-detail-container p-2">
               <div className="d-flex justify-content-between align-items-center">
-                <h5 className="dress-name">White traditional long dress</h5>
+                <h5 className="dress-name">20s Costume Arthur with Flat Cap</h5>
                 <div className="d-flex flex-column mb-2">
-                  <span className="new-price">$3.99</span>
-                  <small className="old-price text-right">$5.99</small>
+                  <span className="new-price">$50.99</span>
+                  <small className="old-price text-right">$60.99</small>
                 </div>
               </div>
               <div className="d-flex justify-content-between align-items-center pt-1">
@@ -72,14 +72,14 @@ const ProductCard = () => {
                   <span className="wishlist"><i style={{ color: 'red' }} className="fa fa-heart"></i></span>
                 </div>
               </div>
-              <img src="https://i.imgur.com/8JIWpnw.jpg" className="img-fluid rounded thumbnail-image" alt="Product" />
+              <img src="https://i.ibb.co/TrYTS3g/Casino-Playing-Cards-Dress.jpg" className="img-fluid rounded thumbnail-image" alt="Product" />
             </div>
             <div className="product-detail-container p-2">
               <div className="d-flex justify-content-between align-items-center">
-                <h5 className="dress-name">White traditional long dress</h5>
+                <h5 className="dress-name">Casino Playing Cards Dress</h5>
                 <div className="d-flex flex-column mb-2">
-                  <span className="new-price">$3.99</span>
-                  <small className="old-price text-right">$5.99</small>
+                  <span className="new-price">$29.99</span>
+                  <small className="old-price text-right">$34.99</small>
                 </div>
               </div>
               <div className="d-flex justify-content-between align-items-center pt-1">
@@ -129,14 +129,14 @@ const ProductCard = () => {
                   <span className="wishlist"><i style={{ color: 'red' }} className="fa fa-heart"></i></span>
                 </div>
               </div>
-              <img src="https://i.imgur.com/8JIWpnw.jpg" className="img-fluid rounded thumbnail-image" alt="Product" />
+              <img src="https://i.ibb.co/tCZKDpz/70s-Disco-Dress-Silver-Star.jpg" className="img-fluid rounded thumbnail-image" alt="Product" />
             </div>
             <div className="product-detail-container p-2">
               <div className="d-flex justify-content-between align-items-center">
-                <h5 className="dress-name">White traditional long dress</h5>
+                <h5 className="dress-name">70s Disco Dress Silver Star</h5>
                 <div className="d-flex flex-column mb-2">
-                  <span className="new-price">$3.99</span>
-                  <small className="old-price text-right">$5.99</small>
+                  <span className="new-price">$35.99</span>
+                  <small className="old-price text-right">$40.99</small>
                 </div>
               </div>
               <div className="d-flex justify-content-between align-items-center pt-1">
@@ -186,14 +186,14 @@ const ProductCard = () => {
                   <span className="wishlist"><i style={{ color: 'red' }} className="fa fa-heart"></i></span>
                 </div>
               </div>
-              <img src="https://i.imgur.com/8JIWpnw.jpg" className="img-fluid rounded thumbnail-image" alt="Product" />
+              <img src="https://i.ibb.co/2dv8rBy/Deluxe-Trenchcoat-for-Men.jpg" className="img-fluid rounded thumbnail-image" alt="Product" />
             </div>
             <div className="product-detail-container p-2">
               <div className="d-flex justify-content-between align-items-center">
-                <h5 className="dress-name">White traditional long dress</h5>
+                <h5 className="dress-name">Deluxe Trenchcoat for Men</h5>
                 <div className="d-flex flex-column mb-2">
-                  <span className="new-price">$3.99</span>
-                  <small className="old-price text-right">$5.99</small>
+                  <span className="new-price">$65.99</span>
+                  <small className="old-price text-right">$69.99</small>
                 </div>
               </div>
               <div className="d-flex justify-content-between align-items-center pt-1">
