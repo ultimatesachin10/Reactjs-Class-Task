@@ -1,0 +1,42 @@
+.product {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .image-container {
+    margin-right: 20px;
+  }
+  
+  .image-container img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .details {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .rating {
+    color: #ffc107;
+    margin-bottom: 10px;
+  }
+  
+  .rating i {
+    margin-right: 5px;
+    font-size: 20px;
+    color: #ccc;
+  }
+  
+  .rating .filled {
+    color: #f8ce0b;
+  }
+  
+  .buttons {
+    display: flex;
+  }
+  
+  .buttons button {
+    margin-right: 10px;
+  }
+  
